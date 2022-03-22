@@ -70,7 +70,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
-  color:#002E3B;
+  color:#E6E9EB;
 }
 
 .description > h1 {
@@ -259,6 +259,7 @@ body {
   list-style-type: none;
   font-size:xx-large;
   margin-bottom: 30px;
+  color: #E6E9EB;
 }
 
 .about{
